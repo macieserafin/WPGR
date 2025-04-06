@@ -1,0 +1,65 @@
+body{
+    background-color: #ececec;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #065237;
+}
+
+section{
+    width: 80%; 
+    height: auto; 
+    background-color: white;
+    margin: 25px auto; 
+    position: relative;
+    left: 40%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.top{
+    background-color: #065237;
+    color:white;
+    padding: 1px;
+    padding-left: 10px;
+}
+.mid{
+    font-size: 13px;
+    text-align: right;
+    margin-right: 5px;
+}
+.bot
+{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 13px;
+    color: #065237;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.street{
+    color: #065237;
+    padding: 1px;
+}
+
+
+
+
+
+
+
+
+
